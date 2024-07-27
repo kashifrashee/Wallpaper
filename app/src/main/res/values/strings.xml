@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Wallpaper</string>
+    <string name="football_players">Football Players</string>
+    <string name="bikes_category">Bikes</string>
+    <string name="cars_category">Cars</string>
+    <string name="flowers_category">Flowers</string>
+    <string name="art_design_category">Art And Design</string>
+    <string name="movies_tv_shows_category">Movies And Tv Shows</string>
+    <string name="nature_category">Nature</string>
+    <string name="animals_category">Animals</string>
+    <string name="cityscapes_category">CityScapes</string>
+
+
+    <string name="back_button">Back Button</string>
+
+    <string name="sunsets_category">Sunsets</string>
+    <string name="abstract_category">Abstract</string>
+    <string name="space_category">Space</string>
+    <string name="underwater_category">Underwater</string>
+    <string name="vintage_category">Vintage</string>
+    <string name="sports_category">Sports</string>
+    <string name="architecture_category">Architecture</string>
+    <string name="sky_category">Sky</string>
+    <string name="moon_category">moon</string>
+</resources>
